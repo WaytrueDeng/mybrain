@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "de9b193ec692137e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c650c119b1a7385",
+        "type": "leaf",
+        "dimension": 63.49598517603459,
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "生理学生殖系统..md"
+          }
+        }
+      },
+      {
+        "id": "4aed29a4e70a84fd",
+        "type": "leaf",
+        "dimension": 36.504014823965406,
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Journal/2022-06-25.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "362f57cf0ea15900",
+    "type": "split",
+    "children": [
+      {
+        "id": "7557c1f418cf3efb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "106d61088d207abe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "773d9f946dde4d5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "复习",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b6ab22a4d03a975f",
+    "type": "split",
+    "children": [
+      {
+        "id": "be8856b61474352c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2f0851accc00f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "生理学生殖系统..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "fe283564661037d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "生理学生殖系统..md"
+              }
+            }
+          },
+          {
+            "id": "fa333731afb8bd54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "012396b10d3f171f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb27c58a4750f64c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bf45c248620f411",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "16386a0c2b588745",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3c650c119b1a7385",
+  "lastOpenFiles": [
+    "生理学生殖系统..md",
+    "Journal/2022-06-25.md",
+    "促进黄体向妊娠黄体转变的因素.md",
+    "初级卵母细胞在何时受到何种刺激后向下继续分裂过程.md",
+    "周期性募集发生时期.md",
+    "单词.excalidraw.md",
+    "睾丸内部分泌哪些因子用于其局部调节.md",
+    "FSH如何协助LH的功能.md",
+    "LH促进生成睾酮通过何种机制.md",
+    "FSH对支持细胞起何作用.md"
+  ]
+}

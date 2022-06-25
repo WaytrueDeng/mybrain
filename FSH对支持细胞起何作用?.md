@@ -1,0 +1,1 @@
+A:“FSH作用于支持细胞膜上的FSH受体，通过G蛋白-腺甘酸环化酶-cAMP-PKA信号转导途径促 进支持细胞合成分泌精子生成所需的物质，从而启动生精过程。同时FSH促进支持细胞合成分 泌 ABP。” ([Wang, 2018, p. 432](zotero://select/library/items/QYSP3EHB)) ([pdf](zotero://open-pdf/library/items/5CG83YHN?page=432&annotation=ZBDURN4D))

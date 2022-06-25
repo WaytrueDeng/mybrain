@@ -1,0 +1,55 @@
+{
+  "appData": {},
+  "state": {
+    "DASHBOARD.md": {
+      "table-id-a8ukej": {
+        "data": {
+          "headers": [],
+          "rows": [],
+          "cells": [],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true
+      }
+    },
+    "生化学allinone.md": {
+      "table-id-xzvlna": {
+        "data": {
+          "headers": [
+            {
+              "id": "column-id-41je0e",
+              "content": "New Column",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "row-id-quhgej",
+              "creationTime": 1656084446135
+            }
+          ],
+          "cells": [
+            {
+              "id": "cell-id-yfpjev",
+              "rowId": "row-id-quhgej",
+              "headerId": "column-id-41je0e",
+              "type": "text",
+              "expectedType": null,
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "reading",
+        "shouldUpdate": true
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  }
+}

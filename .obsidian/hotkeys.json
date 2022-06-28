@@ -26,5 +26,22 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Set Dimensions": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Convert selected text elements to sticky notes": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }
